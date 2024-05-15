@@ -1,0 +1,3 @@
+        String projectId = "gcp202401";
+        String zone = "europe-west2-a";
+        String instanceName = "inst01";
